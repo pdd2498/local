@@ -1,0 +1,17 @@
+body{
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://cdn3.vectorstock.com/i/1000x1000/56/82/background-with-lines-and-forms-vector-2495682.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+
+}
+.box{
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    padding: 20px;
+    height: 50vh;
+}
